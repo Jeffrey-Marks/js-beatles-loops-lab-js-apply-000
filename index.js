@@ -19,4 +19,5 @@ function iLoveTheBeatles(num) {
     loveArray.push("I love the beatles!");
     num++;
   } while (num < 15);
+  return loveArray;
 }
