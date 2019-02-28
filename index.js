@@ -12,3 +12,10 @@ function johnLennonFacts(facts) {
   }
   return facts;
 }
+
+function iLoveTheBeatles(num) {
+  var loveArray = [];
+  do {
+    loveArray = loveArray + "I love the beatles!"
+  } 
+}
